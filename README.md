@@ -1,5 +1,5 @@
 # The Stanford CPN
-Stanford DataSci 112 Final Project:
+Stanford DataSci 112 Final Project Spring 2024:
 
 *In collaboration with Jay Gupta*
 
