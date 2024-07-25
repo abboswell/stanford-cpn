@@ -1,10 +1,10 @@
 # The Stanford CPN
 Stanford DataSci 112 Final Project:
+
 *In collaboration with Jay Gupta*
 
 # Introduction
-This project concerns itself with the Stanford Course Prerequisite Network (CPN) during the 2023 and 2024 academic year. Understanding the relationship between courses is very important to a University’s educational mission. We employ a range of supervised and unsupervised methods to understand and
-ultimately and inform the Stanford educational structure.
+This project concerns itself with the Stanford Course Prerequisite Network (CPN) during the 2023 and 2024 academic year. Understanding the relationship between courses is very important to a University’s educational mission. We employ a range of supervised and unsupervised methods to understand and ultimately and inform the Stanford educational structure. Machine Learning was done through the scikit-learn and networkX python libraries.
 
 # Data Collection
 Data was collected via the ExploreCourses API. The API readily provided the following features: subject, title, description, repeatable, grading basis, units min, units max, final exam, and academic group.
