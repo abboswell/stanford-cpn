@@ -6,7 +6,6 @@ Stanford DataSci 112 Final Project Spring 2024:
 # Poster
 
 <img width="856" alt="Screenshot 2025-06-29 134229" src="https://github.com/user-attachments/assets/51119b1e-3020-446a-ac42-f9556118bc6c" />
-[Project Poster.pdf](https://github.com/user-attachments/files/20969094/Project.Poster.pdf)
 
 # Introduction
 This project concerns itself with the Stanford Course Prerequisite Network (CPN) during the 2023 and 2024 academic year. Understanding the relationship between courses is very important to a University’s educational mission. We employ a range of supervised and unsupervised methods to understand and ultimately and inform the Stanford educational structure. Machine Learning was done through the scikit-learn and networkX python libraries.
