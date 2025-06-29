@@ -2,6 +2,7 @@
 Stanford DataSci 112 Final Project Spring 2024:
 
 **Libraries/Frameworks**:  Scikit-learn, NetworkX, ExploreCourses API, Gephi
+
 **Algorithms**:  KMeans, TFIDF Vectorization, Betweeness Centrality, Jaccard Similarity
 
 *Adam Boswell and Jay Gupta*
