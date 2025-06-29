@@ -3,6 +3,9 @@ Stanford DataSci 112 Final Project Spring 2024:
 
 *Adam Boswell and Jay Gupta*
 
+# Poster
+[Project Poster.pdf](https://github.com/user-attachments/files/20969094/Project.Poster.pdf)
+
 # Introduction
 This project concerns itself with the Stanford Course Prerequisite Network (CPN) during the 2023 and 2024 academic year. Understanding the relationship between courses is very important to a University’s educational mission. We employ a range of supervised and unsupervised methods to understand and ultimately and inform the Stanford educational structure. Machine Learning was done through the scikit-learn and networkX python libraries.
 
