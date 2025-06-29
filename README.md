@@ -4,6 +4,8 @@ Stanford DataSci 112 Final Project Spring 2024:
 *Adam Boswell and Jay Gupta*
 
 # Poster
+
+<img width="856" alt="Screenshot 2025-06-29 134229" src="https://github.com/user-attachments/assets/51119b1e-3020-446a-ac42-f9556118bc6c" />
 [Project Poster.pdf](https://github.com/user-attachments/files/20969094/Project.Poster.pdf)
 
 # Introduction
